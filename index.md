@@ -1,5 +1,6 @@
 <html>
 <head><title>Top 3 Crypto Exchanges of 2021</title></head>
+    <style>.page-header{display: none}</style>
 <body style='font-family: Montserrat, Trebuchet MS, Lucida Grande, Lucida Sans Unicode, Lucida Sans, Tahoma, sans-serif;'>
 	<div class="entry-meta"><a class="entry-date published">April 5, 2021</a></div>
     <h1>Top 3 Crypto Exchanges of 2021</h1>
