@@ -14,35 +14,30 @@
 <p>There are multitudes of trading platforms and exchanges across the web, offering users a fast, efficient and secure medium to buy, sell and store crypto. </p>
  
 <p>So as a new investor, or existing one looking to diversify, which platforms offer us the most competitive rates and benefits? And which offer us something more?</p>
-    
-    <h2><a href="https://citrex.io/en#about" target="_blank">Citrex</a></h2>
-    <p>Founded - 2019</p>
- 
-    <p>Citrex is at the forefront of technological innovation in digital asset trading. Its mission is to give its users the ultimate cryptocurrency trading experience.</p>
-
- <h3>What do they stand for?</h3>
-
-    <p>Citrex is the leading cryptocurrency exchange platform, specializing in high volume purchases, differentiating itself by offering the world's foremost, cutting-edge security technology as a standard.</p>
- 
-<h3>Specialised product offering</h3>
+<p style="font-size:24px"><a href="https://citrex.io/en#about" target="_blank">Citrex</a></p>
+<p>Founded - 2019</p>
+<p>Citrex is at the forefront of technological innovation in digital asset trading. Its mission is to give its users the ultimate cryptocurrency trading experience.</p>
+<p style="font-size:18px">What do they stand for?</p>
+<p>Citrex is the leading cryptocurrency exchange platform, specializing in high volume purchases, differentiating itself by offering the world's foremost, cutting-edge security technology as a standard.</p>
+<p style="font-size:18px">Specialised product offering</p> 
  <ol>
     <li>Large Bitcoin(BTC) and Ethereum (ETH) purchases and sales.  The Citrex platform is designed to focus on buying/selling of the two largest crypto assets, namely; BTC and ETH.</li>
     <li>The company arrived at the early stages of the cryptocurrency age, being one of the first to offer credit card as well as wire transfer services to acquire BTC and ETH.</li>
     </ol>
-<h2><a href="https://www.binance.com/en" target="_blank">Binance</a></h2>
+<p style="font-size:24px"><a href="https://www.binance.com/en" target="_blank">Binance</a></p>
     <p>Founded - 2017</p>
-    <h3>What do they stand for?</h3>
-    <p style="font-style: italic">-  “Our vision is to increase the freedom of money globally. We believe that by spreading this freedom, we can significantly improve lives around the world.”</p>
-    <h3>Specialised product offering</h3>
+    <p style="font-size:18px">What do they stand for?</p>
+    <p style="font-style:italic">- “Our vision is to increase the freedom of money globally. We believe that by spreading this freedom, we can significantly improve lives around the world.”</p>
+    <p style="font-size:18px">Specialised product offering</p>
     <ol>
     <li>Academy - Open source learning hub for blockchain and crypto.</li>
     <li>Binance charity = Not-for-profit foundation dedicated to blockchain-enabled philanthropy and sustainable development.</li>
     </ol>
-    <h2><a href="https://www.coinbase.com/" target="_blank">Coinbase</a></h2>
+    <p style="font-size:24px"><a href="https://www.coinbase.com/" target="_blank">Coinbase</a></p>
     <p>Founded - 2012</p>
-    <h3>What do they stand for?</h3>
-    <p style="font-style: italic">“Our mission is to create an open financial system for the world”.</p>
-    <h3>Specialised product offering</h3>
+    <p style="font-size:18px">What do they stand for?</p>
+    <p style="font-style:italic">“Our mission is to create an open financial system for the world”.</p>
+    <p style="font-size:18px">Specialised product offering</p>
     <p>Coinbase offers a large array of cryptocurrencies and altcoins on their platform. Their differentiating factor is the “Coinbase Earn” series of videos.</p>
     <p><strong>For the individual</strong></p>
     <ul>
